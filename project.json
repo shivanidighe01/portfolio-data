@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Library Management System",
+    "description": "A full-stack app to manage books, members, and transactions.",
+    "tech": ["React", "Node.js", "MongoDB"],
+    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/library.png",
+    "link": "https://github.com/your-username/library-management"
+  },
+  {
+    "title": "Weather App",
+    "description": "A weather forecast app using OpenWeather API.",
+    "tech": ["JavaScript", "HTML", "CSS"],
+    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
+    "link": "https://github.com/your-username/weather-app"
+  }
+]
