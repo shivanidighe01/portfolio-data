@@ -3,7 +3,7 @@
     "title": "Library Management System",
     "description": "Built a full-stack web application to manage library operations including book inventory, member roles, and issuing records. • Enables librarians to add, update, and delete book records and manage staff roles (admin, librarian, member). • Allows users to search for available books, request issues, and view return deadlines. • Implements access control, fine calculation, and transaction history for seamless library tracking.",
     "tech": ["React.js", "Node.js","Express.js", "MongoDB"],
-    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/library.png",
+    "image": "https://raw.githubusercontent.com/shivanidighe01/portfolio-data/main/lms.png",
     "link": "https://github.com/shivanidighe01/library-management-system"
   },
   {
