@@ -1,40 +1,28 @@
 [
   {
     "title": "Library Management System",
-    "description": "Built a full-stack web application to manage library operations including book inventory, member roles, and issuing records.
-                  • Enables librarians to add, update, and delete book records and manage staff roles (admin, librarian, member).
-                  • Allows users to search for available books, request issues, and view return deadlines.
-                  • Implements access control, fine calculation, and transaction history for seamless library tracking.",
+    "description": "Built a full-stack web application to manage library operations including book inventory, member roles, and issuing records. • Enables librarians to add, update, and delete book records and manage staff roles (admin, librarian, member). • Allows users to search for available books, request issues, and view return deadlines. • Implements access control, fine calculation, and transaction history for seamless library tracking.",
     "tech": ["React.js", "Node.js","Express.js", "MongoDB"],
     "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/library.png",
     "link": "https://github.com/shivanidighe01/library-management-system"
   },
   {
     "title": "TokenXtract – Blockchain-Based Government Fund Distribution System",
-    "description": "Designed and developed a decentralized application to ensure transparent and secure fund transfer from ministries to verified contractors using blockchain technology.
-                  • Implemented a stage-wise token disbursement model (30-30-40%) based on work proof and approval by auditors and government authorities.
-                  • Utilized MetaMask for wallet integration and developed smart contracts in Solidity.
-                  • Deployed and tested the system using Hardhat and the Polygon Amoy TestNet.",
+    "description": "Designed and developed a decentralized application to ensure transparent and secure fund transfer from ministries to verified contractors using blockchain technology.• Implemented a stage-wise token disbursement model (30-30-40%) based on work proof and approval by auditors and government authorities. • Utilized MetaMask for wallet integration and developed smart contracts in Solidity.  • Deployed and tested the system using Hardhat and the Polygon Amoy TestNet.",
     "tech": ["MetaMask", "Solidity", "Hardhat", "Polygon Amoy TestNet"],
     "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
     "link": "https://github.com/shivanidighe01/TokenXTrac"
   },
   {
     "title": "Job Portal – Job Listing and Application Platform",
-    "description": "Developed a web-based platform that connects job seekers with employers through a seamless job listing and application workflow.
-                  • Enables employers to post jobs and manage listings across various industries.
-                  • Allows job seekers to search, filter, and apply to relevant job opportunities.
-                  • Designed with a responsive UI and secure application handling for an improved user experience.",
+    "description": "Developed a web-based platform that connects job seekers with employers through a seamless job listing and application workflow. • Enables employers to post jobs and manage listings across various industries. • Allows job seekers to search, filter, and apply to relevant job opportunities. • Designed with a responsive UI and secure application handling for an improved user experience.",
     "tech": ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
     "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
     "link": "https://github.com/shivanidighe01/JOB-PORTAL"
   },
   {
     "title": "Food Ordering site",
-    "description": "Developed a web-based platform that connects customers with resturant through a seamless application workflow.
-                  • Enables customer to search through menu and order the item.
-                  • Allows admin to see orders and process billing.
-                  • customers can track order and see bills",
+    "description": "Developed a web-based platform that connects customers with resturant through a seamless application workflow. • Enables customer to search through menu and order the item.  • Allows admin to see orders and process billing. • customers can track order and see bills",
     "tech": ["React", "Node.js", "Express.js", "MongoDB"],
     "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
     "link": "https://github.com/shivanidighe01/Food-ordering-site"
