@@ -10,14 +10,14 @@
     "title": "TokenXtract – Blockchain-Based Government Fund Distribution System",
     "description": "Designed and developed a decentralized application to ensure transparent and secure fund transfer from ministries to verified contractors using blockchain technology.• Implemented a stage-wise token disbursement model (30-30-40%) based on work proof and approval by auditors and government authorities. • Utilized MetaMask for wallet integration and developed smart contracts in Solidity.  • Deployed and tested the system using Hardhat and the Polygon Amoy TestNet.",
     "tech": ["MetaMask", "Solidity", "Hardhat", "Polygon Amoy TestNet"],
-    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
+    "image": "https://raw.githubusercontent.com/shivanidighe01/portfolio-data/main/cg_profile.JPG",
     "link": "https://github.com/shivanidighe01/TokenXTrac"
   },
   {
     "title": "Job Portal – Job Listing and Application Platform",
     "description": "Developed a web-based platform that connects job seekers with employers through a seamless job listing and application workflow. • Enables employers to post jobs and manage listings across various industries. • Allows job seekers to search, filter, and apply to relevant job opportunities. • Designed with a responsive UI and secure application handling for an improved user experience.",
     "tech": ["React", "Node.js", "Express.js", "MongoDB", "Tailwind CSS"],
-    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
+    "image": "https://raw.githubusercontent.com/shivanidighe01/portfolio-data/main/job-portal.jpg",
     "link": "https://github.com/shivanidighe01/JOB-PORTAL"
   },
   {
@@ -31,14 +31,14 @@
     "title": "Number conversion",
     "description": "Allow user to convert number form one data type to another (eq. integer to binary)",
     "tech": ["Java"],
-    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
+    "image": "https://raw.githubusercontent.com/shivanidighe01/portfolio-data/main/number-conversion.png",
     "link": "https://github.com/shivanidighe01/number_conversion_project"
   },
   {
     "title": "Bubble game",
     "description": "Hit the number and count the score",
     "tech": ["HTML","CSS","JS"],
-    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
+    "image": "https://raw.githubusercontent.com/shivanidighe01/portfolio-data/main/bubblegame.JPG",
     "link": "https://github.com/shivanidighe01/Bubble-game",
     "live":"https://thriving-tanuki-9c3c1c.netlify.app/"
   },
@@ -46,7 +46,7 @@
     "title": "DrumKit",
     "description": "Virtual drum kit.",
     "tech": ["HTML","CSS","JS"],
-    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
+    "image": "https://raw.githubusercontent.com/shivanidighe01/portfolio-data/main/drumkit.JPG",
     "link": "https://github.com/shivanidighe01/DRUMKIT",
     "live":"https://lighthearted-kringle-95cad3.netlify.app/"
   },
@@ -54,7 +54,7 @@
     "title": "Tic Tac Toe game",
     "description": "Tic Tac Toe game (X || O)",
     "tech": ["HTML","CSS","JS"],
-    "image": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weather.png",
+    "image": "https://raw.githubusercontent.com/shivanidighe01/portfolio-data/main/tic-tac-toe.JPG",
     "link": "https://github.com/shivanidighe01/tic-tac-toe-game"
   }
 ]
